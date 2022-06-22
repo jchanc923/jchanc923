@@ -40,3 +40,29 @@ Ver procesos
 ps -aux | grep "firefox"
 Ver procesos de mi usuario |concatena| busca el texto ("firefox") en los procesos de mi usuario
  
+|       concatenar / unir comandos
+
+ls /bin -l
+ls -l    en lista
+mkdir JohanCarpeta   Crear carpeta
+pwd      cual es la ruta
+cd       "Nombre carpeta"    abrir 
+cd       devolverse
+cd ..    a Home
+sudo add user "test"      Agregar new Usuario
+sudo passwd test          Cambiar contraseña
+sudo userdel test         Eliminar usuario 
+su test                   Cambiar de usuario
+su                        Iniciar sección en terminal/ Cambiar usuario
+WHOAMI
+
+nano                      Abrir txt
+sudo su                   Iniciar usuario root
+
+nano archivo.txt          Crear
+cat                       Solo mostrar, solo imprimir
+
+
+
+
+
