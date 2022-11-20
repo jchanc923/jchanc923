@@ -1,0 +1,126 @@
+HTML
+
+
+
+Anclas
+ancla a archivo HTML
+<a href = "Semana1.html"</head> Ir semana 1< /a>
+
+ancla a Link
+<a href = "Semana1.htmhttps://platzi.com/blog/atajos-para-la-escritura-de-codigo-frontend/">Google < /a>
+
+< h1 id ="titulo">
+< a href = "#titulo">ir a  etiqueta H < /a>
+
+<!-- comentarios -->
+<!--
+
+
+Ejemplo de estilos
+ }
+        table{
+            width: 100%;
+            border: 2px solid black;
+            border-collapse: collapse;
+        }
+
+        td{
+            border: 2px solid black;  
+            padding: 2px, center;  
+        }
+
+        th{
+            border: 2px solid black;  
+            padding: 2px, center;
+            background-color: rgb(45, 45, 45); 
+            color: white; 
+        }
+
+lenguaje etiquetado
+
+
+u    subrayado
+
+b o strong negrita
+
+i   italica
+
+em
+
+br salto de linea
+
+
+small   disminuir
+
+big   aumentar
+
+strike tachar
+
+s o del   tachar
+
+
+
+<h1> Etiqueta A -Anclas (links)  < /h1>
+
+ctrl + barra
+
+li*3{}
+
+ol>li*5{}
+
+q citas con comillas
+
+abbr  abreviatura
+
+w3school colorpicker
+
+table>tr*5
+
+table>tr*5>td*5{Dato}
+
+El atributo rel= describe la relación entre dos entidades relacionadas. 
+
+┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
+
+CSS
+
+
+
+
+
+
+
+┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
+
+ETIQUETAS
+
+
+
+
+
+
+
+
+┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
+
+JS
+
+
+
+
+
+
+
+
+┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
+
+
+
+
+
+
+
+BOOTSTRAP
+┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼┼
+
+
